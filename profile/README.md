@@ -9,7 +9,6 @@ My work spans across mobile, web, and backend systems, with a strong emphasis on
 - Mobile development (Flutter)
 - Backend systems (PHP / Laravel)
 - Frontend (Vue.js)
-- Desktop applications (Delphi)
 - AI integrations and automation
 
 ## 🧠 Focus Areas
