@@ -21,7 +21,7 @@ My work spans across mobile, web, and backend systems, with a strong emphasis on
 ## 🌐 Portfolio
 
 Check out my projects and experiments:  
-👉 https://allc-dev.github.io/
+👉  https://apps.allc.dev
 
 ## 📂 GitHub
 
